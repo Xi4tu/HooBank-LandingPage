@@ -1,4 +1,4 @@
-# LANDING PAGE USIGN REACT⚛️ + TAILWINDCSS
+# LANDING PAGE USING REACT⚛️ + TAILWINDCSS
 ## WHAT I HAVE IMPROVE WITH THIS PROYECT ?
 - Get more experience with React.
 - Get used to Tailwindcss syntax.
