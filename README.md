@@ -3,7 +3,7 @@
 - Get more experience with React.
 - Get used to Tailwindcss syntax.
 - Tailwind configurations and personalization.
-- I have learnt how to transorm a Figma design to a real web app.
+- I have learnt how to transform a Figma design to a real web app.
 - The way to struct constant data to be easy to modify in the future.
 - Re-use components efficiently.
 <hr/>
