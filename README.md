@@ -1,5 +1,5 @@
 # LANDING PAGE USING REACT⚛️ + TAILWINDCSS
-## WHAT I HAVE IMPROVE WITH THIS PROJECT ?
+## WHAT I HAVE IMPROVED WITH THIS PROJECT ?
 - Get more experience with React.
 - Get used to Tailwindcss syntax.
 - Tailwind configurations and personalization.
